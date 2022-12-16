@@ -18,7 +18,6 @@ Route::get('/', function () {
         'links' => config('footer_link.links'),
     ];
    
-
     return view('home', $data);
-});
+})->name('home');
 

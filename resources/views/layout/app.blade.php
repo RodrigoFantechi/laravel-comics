@@ -6,7 +6,8 @@
 <!-- <link rel="icon" href="./favicon.ico" /> -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>@yield('title', 'Welcome')</title>
-
+  <!-- Styles -->
+  @vite('resources/js/app.js')
 </head>
 <body>
 
