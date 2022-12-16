@@ -23,5 +23,21 @@
         left: 0;
     }
 }
+.banner_blue{
+    background-color: $accent; 
+    height: 80px;
 
+    .my_icon{
+        
+        display: inline-block;
+        
+        color: $light;
+        font-weight: bolder;
+        position: absolute;
+        top: -2rem;
+        left: 0;
+        
+    }
+
+}
 
