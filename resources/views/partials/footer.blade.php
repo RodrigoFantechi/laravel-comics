@@ -52,11 +52,11 @@
             <div class="my_btn">SIGN-UP NOW!</div>
             <div class="social d-flex align-items-center flex-wrap">
                 <h6 class="blue me-3">FOLLOW US</h6>
-                <!-- <img src="../assets/img/footer-facebook.png" alt="">
-                <img src="../assets/img/footer-twitter.png" alt="">
-                <img src="../assets/img/footer-youtube.png" alt="">
-                <img src="../assets/img/footer-pinterest.png" alt="">
-                <img src="../assets/img/footer-periscope.png" alt=""> -->
+                <img src="{{ Vite::asset('resources/img/footer-facebook.png') }}" alt="">
+                <img src="{{ Vite::asset('resources/img/footer-twitter.png') }}" alt="">
+                <img src="{{ Vite::asset('resources/img/footer-youtube.png') }}" alt="">
+                <img src="{{ Vite::asset('resources/img/footer-pinterest.png') }}" alt="">
+                <img src="{{ Vite::asset('resources/img/footer-periscope.png') }}" alt="">
             </div>
         </div>
     </section>

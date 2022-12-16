@@ -16,6 +16,7 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     $data =[
         'links' => config('footer_link.links'),
+        'nav_links' => config('header_link.menuNav'),
     ];
    
     return view('home', $data);
