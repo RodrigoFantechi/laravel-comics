@@ -8,6 +8,7 @@
         <div class="row">
             <div class="col-7">
                 <div class="my_card p-5 fs-5">
+                    <h3 class="fw-bold">{{$tumblers[0]['title']}}</h3>
                     <p>{{$tumblers[0]['description']}}</p>
                 </div>
             </div>
