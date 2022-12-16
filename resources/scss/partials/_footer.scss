@@ -19,6 +19,12 @@ footer{
                 color: $light;
             }
         }
+        p{
+            color: $link;
+            span{
+                color: $accent;
+            }
+        }
         .font{
             
             color: $link;

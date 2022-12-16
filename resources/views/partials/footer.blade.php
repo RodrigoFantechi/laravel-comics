@@ -44,6 +44,9 @@
                             </ul>
                         </div>
                     </div>
+                    <p>All Site Content TM and &copy; 2020 DC Enterainment, unless otherwise 
+                         <span>noted here.</span> All rights reserved. <span>Cookies Settings</span>
+                    </p>
                 </div>
             </div>
         </div>
